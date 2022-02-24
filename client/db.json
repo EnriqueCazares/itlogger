@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Work Three on station 007 not working",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2021-03-29T04:03:28.422Z"
+    },
+    {
+      "id": 3,
+      "message": "TEST 2",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2021-02-25T21:01:04.718Z"
+    },
+    {
+      "message": "fixed 002 harddrive",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-03-26T01:31:19.188Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Luis Enrique",
+      "lastName": "Cazares Flores",
+      "id": 4
+    }
+  ]
+}
